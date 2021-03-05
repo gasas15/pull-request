@@ -1,4 +1,0 @@
-This is the first commit and fifth commit
-This is the second commit and fourth commit
-This is the third commit
-Rebase commit
